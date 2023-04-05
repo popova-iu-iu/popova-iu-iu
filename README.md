@@ -10,8 +10,7 @@ const I = {
 };
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popova-iu-iu)](https://github.com/popova-iu-iu/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popova-iu-iu&layout=compact)](https://github.com/popova-iu-iu/github-readme-stats)
 <!--
 **popova-iu-iu/popova-iu-iu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
