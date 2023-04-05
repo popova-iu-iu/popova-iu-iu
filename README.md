@@ -12,7 +12,7 @@ const I = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popova-iu-iu&layout=compact)](https://github.com/popova-iu-iu/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/popova-iu-iu//badges/large)](https://www.codewars.com/users/popova-iu-iu/)   
+[![codewars](https://www.codewars.com/users/popova-iu-iu/badges/small)](https://www.codewars.com/users/popova-iu-iu) 
 
 
 <!--
