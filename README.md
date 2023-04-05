@@ -4,7 +4,7 @@
 ```javascript
 const I = {
  am: 'a Front-end Developer',
- love: ['Web development', 'Books', 'Traveling', 'Cats'],
+ love: ['Web development', 'Books', 'Coffee', 'Traveling', 'Cats'],
  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit'],
  useTools: ['Webpack', 'Git'],
 };
