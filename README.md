@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+```javascript
+const I = {
+ am: 'a Front-end Developer',
+ love: ['Web development', 'Books', 'Traveling', 'Cats'],
+ workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit'],
+ useTools: ['Webpack', 'Git'],
+};
+```
+
 <!--
 **popova-iu-iu/popova-iu-iu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
