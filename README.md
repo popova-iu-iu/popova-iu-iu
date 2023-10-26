@@ -3,7 +3,7 @@
 
 ```javascript
 const I = {
- am: 'a Front-end Developer',
+ am: 'an UX/UI designer and a Front-end Developer',
  love: ['Web development', 'Books', 'Coffee', 'Traveling', 'Cats'],
  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit'],
  useTools: ['Webpack', 'Git'],
