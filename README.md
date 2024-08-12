@@ -5,7 +5,7 @@
 const I = {
  am: 'a QA Engineer',
  love: ['Web development', 'Books', 'Coffee', 'Traveling', 'Cats'],
- workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit'],
+ workWith: ['Postman', 'SQL', 'REST', 'HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit'],
  useTools: ['Webpack', 'Git'],
 };
 ```
