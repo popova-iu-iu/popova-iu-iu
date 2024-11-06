@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-```javascript
-const I = {
- am: 'a QA Engineer',
- love: ['Web development', 'Books', 'Coffee', 'Traveling', 'Cats'],
- workWith: ['Postman', 'SQL', 'REST', 'HTML', 'CSS', 'SCSS', 'JS', 'Node.js', 'React', 'Redux Toolkit', 'Python'],
- useTools: ['Webpack', 'Git'],
-};
+```python
+I = {
+    "am": "a QA Engineer",
+    "love": ["Web development", "Books", "Coffee", "Traveling", "Cats"],
+    "work_with": ["Python", "Playwright", "Pytest", "Postman", "SQL", "REST", "HTML", "CSS", "SCSS", "JS", "Node.js", "React"],
+    "use_tools": ["Git", "Requests", "Docker", "GitLab CI", "GitHub Actions", "JIRA"]
+}
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popova-iu-iu&layout=compact)](https://github.com/popova-iu-iu/github-readme-stats)
