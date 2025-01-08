@@ -14,8 +14,6 @@ I = {
 
 [![codewars](https://www.codewars.com/users/popova-iu-iu/badges/small)](https://www.codewars.com/users/popova-iu-iu) 
 
-![LeetCode](https://img.shields.io/badge/LeetCode-popova-iu-iu-blue)
-
 
 
 
