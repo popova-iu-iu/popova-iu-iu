@@ -13,7 +13,9 @@ I = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popova-iu-iu&layout=compact)](https://github.com/popova-iu-iu/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/popova-iu-iu/badges/small)](https://www.codewars.com/users/popova-iu-iu) 
-[LeetCode](https://leetcode.com/popova-iu-iu/)
+
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/8/8c/LeetCode_logo.png)](https://leetcode.com/popova-iu-iu/)
+
 
 
 
